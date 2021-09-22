@@ -1,7 +1,7 @@
 {
   "type":"java",
   "mainClass":"com.arizotaz.core.Boot",
-  "version":"PB_0006",
+  "version":"PB_0007",
   "supported":"windows/mac",
   "mac":{},
   "windows":{},
