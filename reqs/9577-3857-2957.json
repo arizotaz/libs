@@ -2,7 +2,7 @@
   "type":"java",
   "mainClass":"com.arizotaz.core.Boot",
   "version":"PB_0007",
-  "supported":"windows/mac",
+  "supported":"windows/mac/linux",
   "mac":{},
   "windows":{},
   "linux":{},

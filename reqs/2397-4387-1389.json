@@ -2,7 +2,7 @@
   "type":"java",
   "mainClass":"com.arizotaz.src.Main",
   "version":"0.1",
-  "supported":"windows/mac",
+  "supported":"windows/mac/linux",
   "mac":{},
   "windows":{},
   "linux":{},
