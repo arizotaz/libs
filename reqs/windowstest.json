@@ -5,5 +5,5 @@
   "mac":{},
   "windows":{},
   "linux":{},
-  "all":{"commands":{"preDownload":"","postDownload":"ls","play":"game.exe"},"game":["https://www.dropbox.com/s/ew2ekdxrwrh7d0f/unzip.exe?dl=1","zip file"],"assets":[],"libraries":[],"main":"https://www.dropbox.com/s/4du6v1nykacm7d8/Main.jar?dl=1"}
+  "all":{"commands":{"preDownload":"","postDownload":"open ../","play":"game.exe"},"game":["https://www.dropbox.com/s/ew2ekdxrwrh7d0f/unzip.exe?dl=1","zip file"],"assets":[],"libraries":[],"main":"https://www.dropbox.com/s/4du6v1nykacm7d8/Main.jar?dl=1"}
 }
