@@ -2,8 +2,8 @@
   "type":"binary",
   "version":"Test",
   "supported":"windows/mac/linux",
-  "mac":{"commands":{"preDownload":[],"postDownload":["open ../"],"play":[]},"game":["https://www.dropbox.com/sh/farkja5t0muha2y/AAC0EUCx3HFicp_0ODPuw1B1a?dl=1"]},
-  "windows":{"commands":{"preDownload":[],"postDownload":["cmd.exe unzip.exe file.zip"],"play":[]},"game":["https://www.dropbox.com/sh/farkja5t0muha2y/AAC0EUCx3HFicp_0ODPuw1B1a?dl=1"]},
+  "mac":{"commands":{"preDownload":[],"postDownload":["unzip win.zip?dl=1","open ../"],"play":["open BeatUrMeat.exe"]},"game":["https://www.dropbox.com/s/7uzi58dl8jiq7kl/win.zip?dl=1"]},
+  "windows":{},
   "linux":{},
-  "all":{"game":["https://www.dropbox.com/s/ew2ekdxrwrh7d0f/unzip.exe?dl=1"],"assets":[],"libraries":[]}
+  "all":{}
 }
