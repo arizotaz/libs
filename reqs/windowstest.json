@@ -2,8 +2,8 @@
   "type":"binary",
   "version":"Test",
   "supported":"windows/mac/linux",
-  "mac":{"commands":{"preDownload":[],"postDownload":["open ../"],"play":[]},"game":["https://www.dropbox.com/sh/farkja5t0muha2y/AAC0EUCx3HFicp_0ODPuw1B1a?dl=1","https://www.dropbox.com/s/ew2ekdxrwrh7d0f/unzip.exe?dl=1"]},
-  "windows":{},
+  "mac":{"commands":{"preDownload":[],"postDownload":["open ../"],"play":[]},"game":["https://www.dropbox.com/sh/farkja5t0muha2y/AAC0EUCx3HFicp_0ODPuw1B1a?dl=1"]},
+  "windows":{"commands":{"preDownload":[],"postDownload":["cmd.exe unzip.exe file.zip"],"play":[]},"game":["https://www.dropbox.com/sh/farkja5t0muha2y/AAC0EUCx3HFicp_0ODPuw1B1a?dl=1"]},
   "linux":{},
-  "all":{"game":[],"assets":[],"libraries":[]}
+  "all":{"game":["https://www.dropbox.com/s/ew2ekdxrwrh7d0f/unzip.exe?dl=1"],"assets":[],"libraries":[]}
 }
