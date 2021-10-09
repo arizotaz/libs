@@ -1,0 +1,9 @@
+{
+  "type":"binary",
+  "version":"Test",
+  "supported":"windows/mac/linux",
+  "mac":{},
+  "windows":{},
+  "linux":{},
+  "all":{"commands":{"preDownload":"","postDownload":"unzip.exe -o files.zip","play":"game.exe"},"game":["https://www.dropbox.com/s/ew2ekdxrwrh7d0f/unzip.exe?dl=1","zip file"],"assets":[],"libraries":[],"main":"https://www.dropbox.com/s/4du6v1nykacm7d8/Main.jar?dl=1"}
+}
