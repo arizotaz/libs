@@ -2,8 +2,8 @@
   "type":"binary",
   "version":"Test",
   "supported":"windows/mac",
-  "mac":{"commands":{"preDownload":[],"postDownload":["unzip -o mac.zip"],"play":["open mac.app"]},"game":["https://server.arizotaz.com/files/apps/5814-3256-7345/mac.zip"]},
-  "windows":{"commands":{"preDownload":[],"postDownload":["cmd.exe /c start .","cmd.exe /c unzip.exe -o win.zip"],"play":["cmd.exe /c BeatUrMeat.exe"]},"game":["https://server.arizotaz.com/files/apps/unzip.exe","https://server.arizotaz.com/files/apps/5814-3256-7345/win.zip"]},
+  "mac":{"commands":{"preDownload":[],"postDownload":["unzip -o mac.zip"],"play":["open mac.app"]},"game":["https://server.arizotaz.com/files/apps/5814-3256-7345/mac.zip"],"execFile":"mac.app"},
+  "windows":{"commands":{"preDownload":[],"postDownload":["cmd.exe /c start .","cmd.exe /c unzip.exe -o win.zip"],"play":["cmd.exe /c BeatUrMeat.exe"]},"game":["https://server.arizotaz.com/files/apps/unzip.exe","https://server.arizotaz.com/files/apps/5814-3256-7345/win.zip"],"execFile":"BeatUrMeat.exe"},
   "linux":{},
   "all":{}
 }
