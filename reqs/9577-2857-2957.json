@@ -1,7 +1,7 @@
 {
   "type":"java",
   "mainClass":"com.arizotaz.core.Boot",
-  "version":"Early Alpha 2",
+  "version":"Early Alpha 2 - Reupload",
   "supported":"windows/mac/linux",
   "mac":{},
   "windows":{},
