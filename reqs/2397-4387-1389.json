@@ -1,7 +1,8 @@
 {
+  "name":"The Game Of Life"l,
+  "version":"0.1",
   "type":"java",
   "mainClass":"com.arizotaz.src.Main",
-  "version":"0.1",
   "supported":"windows/mac/linux",
   "mac":{},
   "windows":{},

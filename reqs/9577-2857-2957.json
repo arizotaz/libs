@@ -1,7 +1,8 @@
 {
+  "name":"Fallen Walls",
+  "version":"Early Alpha 3",
   "type":"java",
   "mainClass":"com.arizotaz.core.Boot",
-  "version":"Early Alpha 2 - Reupload",
   "supported":"windows/mac/linux",
   "mac":{},
   "windows":{},

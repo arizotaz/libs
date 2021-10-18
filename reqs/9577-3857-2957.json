@@ -1,7 +1,8 @@
 {
+  "name":"G060620",
+  "version":"PB_0007",
   "type":"java",
   "mainClass":"com.arizotaz.core.Boot",
-  "version":"PB_0007",
   "supported":"windows/mac/linux",
   "mac":{},
   "windows":{},
