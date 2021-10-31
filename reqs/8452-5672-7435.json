@@ -1,0 +1,11 @@
+{
+  "name":"Public Chat Rooms",
+  "version":"0.1",
+  "type":"java",
+  "mainClass":"com.arizotaz.core.Boot",
+  "supported":"windows/mac/linux",
+  "mac":{},
+  "windows":{},
+  "linux":{},
+  "all":{"game":[],"assets":[],"libraries":[],"main":"https://www.dropbox.com/s/yeyjnfntajwzujr/Chat.jar?dl=1"}
+}
