@@ -1,6 +1,6 @@
 {
-  "name":"Public Chat Rooms",
-  "version":"0.1",
+  "name":"Chat Rooms",
+  "version":"1.0",
   "type":"java",
   "mainClass":"com.arizotaz.core.Boot",
   "supported":"windows/mac/linux",
