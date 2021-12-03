@@ -1,6 +1,6 @@
 {
   "name":"Class Planner",
-  "version":"Beta 0.1 HotFix 1",
+  "version":"Beta 0.2",
   "type":"java",
   "mainClass":"com.arizotaz.core.Boot",
   "supported":"windows/mac/linux",
