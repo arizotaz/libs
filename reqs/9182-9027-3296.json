@@ -1,6 +1,6 @@
 {
   "name":"BOM TOOL FOR IMS",
-  "version":"V1.0_ArizotazCoreUpdate12",
+  "version":"V1.0_ArizotazCoreUpdate12.1",
   "type":"java",
   "mainClass":"com.arizotaz.core.Boot",
   "supported":"windows/mac/linux",
