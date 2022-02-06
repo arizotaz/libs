@@ -4,7 +4,7 @@
   "type":"binary",
   "mainClass":"com.arizotaz.core.Boot",
   "supported":"windows/mac/linux",
-  "mac":{"game":[],"assets":[],"libraries":[],"download":"https://www.dropbox.com/s/16uyzit51e6m6gr/mac.zip?dl=1","file":"screenshot"},
+  "mac":{"game":[],"assets":[],"libraries":[],"requestAdmin":"true","download":"https://www.dropbox.com/s/16uyzit51e6m6gr/mac.zip?dl=1","file":"screenshot"},
   "windows":{"game":[],"assets":[],"libraries":[],"download":"https://www.dropbox.com/s/apz0ke6curef6y8/win.zip?dl=1","file":"screenshot"},
   "linux":{},
   "all":{}
