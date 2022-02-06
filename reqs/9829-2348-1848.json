@@ -1,6 +1,6 @@
 {
   "name":"Arizotaz Images Screen Shot Tool",
-  "version":"B2",
+  "version":"B3",
   "type":"binary",
   "mainClass":"com.arizotaz.core.Boot",
   "supported":"windows/mac/linux",
